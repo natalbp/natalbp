@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="![alt text](image.png)" alt="" />
+  <img src="tropical header ☆.jpg" alt="" />
 </h1>
 
 <br/>
